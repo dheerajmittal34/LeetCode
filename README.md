@@ -1,1 +1,1 @@
-# Genius Mind Code 
+# LeetCode 
